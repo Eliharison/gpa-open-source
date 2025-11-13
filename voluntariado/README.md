@@ -1,14 +1,14 @@
 # Página Voluntariado (Desktop) – Equipe Tagarela
 
-**Responsável:** Ana Cristina  
+**Responsável:** Ana Cristina e Ana Pupo
 **Status:** Em andamento  
 **Figma:** (https://www.figma.com/design/2f17t857v3Ee1hFHABxAb5/Untitled?node-id=1-3&t=7dxG1ULWZr3dQ8ci-1
 )
 
 ## Entregáveis
-- [ ] Wireframe (desktop)
-- [ ] UI final no Figma
-- [ ] Exportáveis (SVG/PNG)
+- [ X ] Wireframe (desktop)
+- [ X ] UI final no Figma
+- [ X ] Exportáveis (SVG/PNG)
 
 
 ## Observações
