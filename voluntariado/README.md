@@ -2,7 +2,7 @@
 
 | Integrante        | Contribuição                                                                 |
 |------------------|-------------------------------------------------------------------------------|
-| **Ana Cristina** | UI no Figma + desenvolvimento da **seção de Voluntariado**                   |
+| **Ana Cristina** | UI no Figma + desenvolvimento da **seção de Quero Contribuir**                   |
 | **Ana Pupo**     | UI no Figma + desenvolvimento da **seção de Stories**                        |
 | **Renato**       | Desenvolvimento da **seção Banner**                                          |
 | **Murilo**       | Estruturação e desenvolvimento dos **componentes principais**                 |
