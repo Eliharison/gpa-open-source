@@ -8,3 +8,59 @@
 body {
     overflow-x: hidden;
 }
+
+.financeiro-hero {
+    background-color: #4B0082;
+    color: #ffffff;
+    padding: 10vh 8vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    position: relative;
+    min-height: 85vh;
+     overflow: hidden;
+}
+
+.hero-content {
+    max-width: 45vw;
+}
+
+.financeiro-hero h1 {
+    font-size: 4.5vh;
+    font-weight: 700;
+    line-height: 1.1;
+    margin-bottom: 2vh;
+}
+
+.financeiro-hero p {
+    font-size: 2.2vh;
+    opacity: 0.9;
+    line-height: 1.4;
+}
+
+.hero-img img {
+    height: 60vh; 
+    max-height: 500px;
+    object-fit: contain;
+}
+
+.tag-transformacao {
+    background-color: #FFA726;
+    color: #4B0082;
+    padding: 0.8vh 2.5vh;
+    border-radius: 50px;
+
+    font-size: 4vh;
+    font-weight: 700;
+    display: inline-block;
+
+    margin-top: 1vh;
+}
+
+.hero-img {
+    position: absolute; 
+    bottom: 0;  
+    right: 6vw; 
+}
