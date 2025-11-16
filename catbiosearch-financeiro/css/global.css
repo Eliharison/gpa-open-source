@@ -54,12 +54,15 @@ body {
     flex: 1;
     min-height: 820px;
     max-height: 1020px;
-    background-image: url("../assets/svg/cao_da_capa.svg");
+    /* Use the attached raster image (save o arquivo como cao_da_capa.png em assets/svg) */
+    background-image: url("../assets/svg/cao_da_capa.png");
     background-repeat: no-repeat;
-    background-size: clamp(820px, 82vw, 1180px);
+    /* reduced size so the cover dog appears smaller on large screens */
+    background-size: clamp(520px, 55vw, 800px);
     background-position: center calc(100% + 70px);
     position: relative;
-    transform: rotate(-12deg) translateY(70px);
+        /* Rotate the PNG -15deg (contrário) */
+        transform: rotate(-15deg) translateY(70px);
     margin-right: 0;
     align-self: center;
     pointer-events: none;
@@ -90,9 +93,11 @@ body {
 
     .hero-img {
         min-height: 520px;
-        background-size: clamp(520px, 65vw, 760px);
+        /* slightly smaller for medium screens */
+        background-size: clamp(360px, 60vw, 560px);
         background-position: center calc(100% + 90px);
-        transform: rotate(-10deg) translateY(110px);
+        /* Maintain rotation on medium screens */
+        transform: rotate(-15deg) translateY(110px);
         margin-right: 0;
     }
 }
@@ -138,8 +143,10 @@ body {
 
     .hero-img {
         min-height: 240px;
-        background-size: 240px;
-        transform: rotate(0deg) translate(0, 0);
+        /* and a smaller fixed size for very small screens */
+        background-size: 180px;
+        /* Aplicar -15deg também em telas pequenas */
+        transform: rotate(-15deg) translate(0, 0);
     }
 }
 
