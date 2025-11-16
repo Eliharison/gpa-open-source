@@ -25,7 +25,7 @@ Nosso principal objetivo é modernizar o website utilizando as tecnologias e met
 
 Este projeto deve utilizar **stacks e tecnologias ministradas durante o curso**. (A equipe líder ou responsável pode listar as tecnologias principais aqui, como React, Node.js, Kotlin, Banco de Dados X, etc.)
 
-* **Frontend Principal:** [Exemplo: HTML5, CSS3, JavaScript]
+* **Frontend Principal:** HTML5, CSS3, JavaScript
 * **Framework/Biblioteca:** [Exemplo: React.js, Vue.js, jQuery]
 * **Backend/Lógica:** [Exemplo: Node.js, Express, **Kotlin** (se aplicável)]
 * **Hospedagem (Deploy):** [Exemplo: Vercel/GitHub Pages]
@@ -44,21 +44,6 @@ Todo o trabalho deve seguir o fluxo colaborativo no GitHub para garantir a coer�
 ---
 
 ## 📄 Documentação da Equipe
-
-### Equipe: Sunside
-| Integrante | Função no Projeto | Nickname  |
-| :--- | :--- | :--- |
-| **Renato Hioji Okamoto Odake** | Desenvolvedor Frontend | RenatoHioji |
-| **Saulo de Freitas** | Desenvolvedor Frontend | Saulo217 |
-| **Ana Cristina Domingues** | Designer/UX/Desenvolvedor Frontend | Anacristinadomingues |
-| **Ana Luiza Lara Pupo** | Designer/UXDesigner/Desenvolvedor Frontend | analarap |
-| **Murilo dos Santos Mescyszyn** | Desenvolvedor Frontend | [GitHub ID] | murilo587
-
-#### Descrição da Página - Voluntariado
-
-* **Link da Página Hospedada (Deploy):** `[INSERIR O LINK DO DEPLOY AQUI]`
-* **Melhorias Visuais (UI/UX):** Adicionada uma identidade visual para as telas, além disso seguimos com um padrão de indústria mais simples como o espaçamento em branco, hierarquia e outros processos.
-* **Novas Funcionalidades Implementadas:** No que diz ao requisito de contribuição, foi criada um branch nomeada de feat/voluntariado onde foram adicionadas as mudanças da página do voluntariado encontrados na página [Voluntariado](https://www.figma.com/design/2f17t857v3Ee1hFHABxAb5/GPA?node-id=0-1&p=f&t=XKxxnC7eXMzj8s5L-0).
 
 ### Equipe: AntraVision
 
