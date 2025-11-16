@@ -1,9 +1,9 @@
-@import url('variables.css');
-@import url('global.css');
+@import url("variables.css");
+@import url("global.css");
 
 :root {
-  --purple: #7B61FF;
-  --purple-2: #5B2EEA;
+  --purple: #7b61ff;
+  --purple-2: #5b2eea;
   --card: #ffffff;
   --muted: #6b6b6b;
 }
@@ -77,13 +77,13 @@
   font-weight: 700;
   color: #fff;
   position: relative;
-  background-image: url('/assets/apadrinhamento/img5.jpg');
+  background-image: url("../../assets/apadrinhamento/img5.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .thumb.more::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -276,7 +276,11 @@
   margin-top: 20px;
   display: flex;
   gap: 16px;
-  background: linear-gradient(90deg, rgba(123, 97, 255, 0.06), rgba(107, 60, 245, 0.03));
+  background: linear-gradient(
+    90deg,
+    rgba(123, 97, 255, 0.06),
+    rgba(107, 60, 245, 0.03)
+  );
   padding: 20px;
   border-radius: 12px;
   align-items: flex-start;
@@ -385,7 +389,7 @@
   color: #fff;
 }
 
-@media (max-width:980px) {
+@media (max-width: 980px) {
   .container {
     flex-direction: column;
     padding: 20px;
@@ -439,7 +443,7 @@
   justify-content: center;
 }
 
-.title{
+.title {
   font-family: "Jost", sans-serif;
   color: var(--roxo);
 }
@@ -526,11 +530,11 @@
   gap: 20px;
 }
 
-.med-extra{
+.med-extra {
   font-weight: bold;
 }
 
-.med-extra-price{
+.med-extra-price {
   font-weight: bold;
 }
 
@@ -549,11 +553,11 @@
   flex-wrap: wrap;
 }
 
-.total-box .total-price{
+.total-box .total-price {
   color: var(--laranja);
 }
 
-.animal-card-container{
+.animal-card-container {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -561,7 +565,7 @@
   margin: 25px 40px 40px 40px;
 }
 
-.animal-card{
+.animal-card {
   display: flex;
   flex: 1 1 260px;
   flex-direction: column;
@@ -570,21 +574,20 @@
   padding: 20px 23px;
   border-radius: 10px;
   align-items: center;
-  justify-content:space-evenly;
+  justify-content: space-evenly;
   box-shadow: 0 10px 30px rgba(28, 20, 42, 0.08);
   letter-spacing: 2%;
   font-family: "Jost", sans-serif;
 }
 
-.avatar{
+.avatar {
   width: 80px;
   height: 80px;
   border-radius: 10px;
   object-fit: cover;
 }
 
-.dog-card h3{
+.dog-card h3 {
   font-size: 20px;
   font-weight: bold;
 }
-
