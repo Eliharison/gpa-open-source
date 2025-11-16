@@ -56,8 +56,24 @@ Todo o trabalho deve seguir o fluxo colaborativo no GitHub para garantir a coer�
 | **[Nome Completo do Aluno 3]** | Desenvolvedor Backend | [GitHub ID] |
 | ... | ... | ... |
 
+
 #### Descrição da Página **[Nome da Página - Ex: Home]**
 
 * **Link da Página Hospedada (Deploy):** `[INSERIR O LINK DO DEPLOY AQUI]`
 * **Melhorias Visuais (UI/UX):** [Descreva brevemente as mudanças de design e usabilidade]
 * **Novas Funcionalidades Implementadas:** [Descreva as novas funcionalidades que atendem ao Requisito 4.]
+
+### Equipe: Sunside
+| Integrante | Função no Projeto | Nickname  |
+| :--- | :--- | :--- |
+| **Renato Hioji Okamoto Odake** | Desenvolvedor Frontend | RenatoHioji |
+| **Saulo de Freitas** | Desenvolvedor Frontend | [GitHub ID] |
+| **Ana Cristina Domingues** | Designer/UX/Desenvolvedor Frontend | [GitHub ID] |
+| **Ana Luiza Lara Pupo** | Designer/UXDesigner/UX | [GitHub ID] |
+| **Murilo dos Santos Mescyszyn** | Desenvolvedor Frontend | [GitHub ID] |
+
+#### Descrição da Página - Voluntariado
+
+* **Link da Página Hospedada (Deploy):** `[INSERIR O LINK DO DEPLOY AQUI]`
+* **Melhorias Visuais (UI/UX):** [Descreva brevemente as mudanças de design e usabilidade]
+* **Novas Funcionalidades Implementadas:** No que diz ao requisito de contribuição, foi criada um branch nomeada de feat/voluntariado onde foram adicionadas as mudanças da página do voluntariado encontrados na página [Voluntariado](https://www.figma.com/design/2f17t857v3Ee1hFHABxAb5/GPA?node-id=0-1&p=f&t=XKxxnC7eXMzj8s5L-0).
