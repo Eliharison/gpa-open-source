@@ -5,7 +5,6 @@ footer {
   background-color: var(--roxo);
   width: 100%;
   color: var(--branco);
-  border-top: 2px solid var(--branco);
   padding: clamp(2rem, 6vw, 7rem) 1.5rem;
   display: flex;
   flex-direction: column;
@@ -32,7 +31,6 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
   transform: scale(1);
   transition: transform 0.25s ease, background-color 0.25s ease;
   will-change: transform;
